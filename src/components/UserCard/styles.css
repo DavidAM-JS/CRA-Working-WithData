@@ -1,0 +1,22 @@
+.card{
+    display: flex;
+    border-radius: 15px;
+    width: 35%;
+    margin: 30px;
+    height: 200px;
+    background-color: #ece3bc;
+    box-shadow: 0 0 10px rgb(69, 203, 221);
+}
+
+.description{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 65%;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+}
+.avatar{
+    border-radius: 15px 0 0 15px;
+}
